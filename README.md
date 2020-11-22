@@ -11,7 +11,7 @@
 * Use Population (Node Size) and Travelling Cost (Edges width) for styling
 * Red Edges: Travelling Cost greater than 770 $
 
-![alt text](https://github.com/janS95/analyzing_a_distribution_network/blob/main/images/network.png "Distribution Network")
+![alt text](/images/network.png "Distribution Network")
 
 
 # [Project: Analyzing weather data](https://github.com/janS95/analyzing_weather_data)
