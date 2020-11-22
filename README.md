@@ -23,3 +23,16 @@
 * Mark record breaking lows & highs in 2015
 
 ![](https://github.com/janS95/analyzing_weather_data/blob/main/images/weather_resized.png)
+
+
+# [Project: Predictions on E-Mail network](https://github.com/janS95/predictions_on_email_network)
+
+* Read E-Mail network dataset
+* Node attributes: Department, Management Salary
+* Generated Features for predicting if employee has management salary
+* Used Random Forest Classifier
+* AUC-Score: 0.948
+* Generated features for predicting future connections between employees
+* AUC-Score: 0.901
+
+* TODO: Optimize features, optimize classifier, try other classifiers, gridsearch
