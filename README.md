@@ -3,21 +3,6 @@
 
 # [Project: Analyzing a distribution network](https://github.com/janS95/analyzing_a_distribution_network)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * Read network data from a distribution network in the USA
 * Node attributes: Population, Location (Latitude, Longitude)
 * Edge weight: Travelling Cost for this connection
