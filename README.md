@@ -22,9 +22,7 @@
 * Create diagram with maximum and minimum temperatures from 2005 - 2014 by day of the year
 * Mark record breaking lows & highs in 2015
 
-<img src="images/weather_resized.png" alt="">
-
-![alt_text](/images/weather_resized.png "Weather")
+![alt_text](images/weather_resized.png "Weather")
 
 
 # [Project: Predictions on E-Mail network](https://github.com/janS95/predictions_on_email_network)
