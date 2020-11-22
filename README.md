@@ -34,5 +34,4 @@
 * AUC-Score: 0.948
 * Generated features for predicting future connections between employees
 * AUC-Score: 0.901
-
 * TODO: Optimize features, optimize classifier, try other classifiers, gridsearch
