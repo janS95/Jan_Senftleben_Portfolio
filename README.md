@@ -8,18 +8,18 @@
 * Edge weight: Travelling Cost for this connection
 * Plot the graph diagram corresponding to location
 * Highlight NYC and LA for better orientation
-* Use Population (Node Size) and Travelling Cost (Edges width) for styling
-* Red Edges: Travelling Cost greater than 770 $
+* Use population (Node Size) and travelling cost (Edges width) for styling
+* Red Edges: travelling cost greater than 770 $
 
 ![alt text](images/network.png "Distribution Network")
 
 
 # [Project: Analyzing weather data](https://github.com/janS95/analyzing_weather_data)
-## Was 2015 a record breaking year temperaturewise?
+## Was 2015 a record breaking year temperature-wise?
 
-* Weather Data from Ann Arbor, Michigan from the years 2005 - 2015
-* Split Data in period 2005 - 2014 and 2015
-* Create diagram with maximum and minimum temperatures from 2005 - 2014 by day of the year
+* Weather data from Ann Arbor, Michigan from the years 2005 - 2015
+* Split data in period 2005 - 2014 and 2015
+* Created diagram with maximum and minimum temperatures from 2005 - 2014 by day of the year
 * Mark record breaking lows & highs in 2015
 
 ![alt_text](images/weather_resized.png "Weather")
@@ -29,7 +29,7 @@
 
 * Read E-Mail network dataset
 * Node attributes: Department, Management Salary
-* Generated Features for predicting if employee has management salary
+* Generated features for predicting if employee has management salary
 * Used Random Forest Classifier
 * AUC-Score: 0.948
 * Generated features for predicting future connections between employees
