@@ -8,7 +8,7 @@
 * Edge weight: Travelling Cost for this connection
 * Plot the graph diagram corresponding to location
 * Highlight NYC and LA for better orientation
-* Use population (Node Size) and travelling cost (Edges width) for styling
+* Use population (node size) and travelling cost (edge width) for styling
 * Red Edges: travelling cost greater than 770 $
 
 ![alt text](images/network.png "Distribution Network")
