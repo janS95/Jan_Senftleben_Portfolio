@@ -47,6 +47,7 @@ TODO:
 * AUC-Score: 0.948
 * Generated features for predicting future connections between employees
 * AUC-Score: 0.901
+
 TODO: 
 - [ ] optimize features
 - [ ] optimize classifier
