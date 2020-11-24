@@ -24,6 +24,19 @@
 
 ![alt_text](images/weather_resized.png "Weather")
 
+# [Project: Simple Machine Learning Web App](https://github.com/janS95/simple_ml_web_app)
+
+* Simple Web App using streamlit and sklearn
+* Select dataset (Iris, Breast Cancer, Wine), classifier (KNN, SVM, Decision Tree, Random Forest), feature scaling method, parameters of classifiers
+* Used PCA for plotting the dataset
+* Try to get the best accuracy!
+
+TODO: 
+- [ ] deploy to heroku/streamlit-sharing
+- [ ] add more classifier
+- [ ] add more parameters
+        
+![](images/GUI.JPG)
 
 # [Project: Predictions on E-Mail network](https://github.com/janS95/predictions_on_email_network)
 
@@ -34,4 +47,8 @@
 * AUC-Score: 0.948
 * Generated features for predicting future connections between employees
 * AUC-Score: 0.901
-* TODO: Optimize features, optimize classifier, try other classifiers, gridsearch
+TODO: 
+- [ ] optimize features
+- [ ] optimize classifier
+- [ ] try other classifiers
+- [ ] gridsearch
