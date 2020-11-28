@@ -30,10 +30,10 @@
 * Simple Web App using streamlit and sklearn
 * Select dataset (Iris, Breast Cancer, Wine), classifier (KNN, SVM, Decision Tree, Random Forest), feature scaling method, parameters of classifiers
 * Used PCA for plotting the dataset
-* Try to get the best accuracy!
+* [Try to get the best accuracy!](https://share.streamlit.io/jans95/simple_ml_web_app/main/app.py)
 
 TODO: 
-- [ ] deploy to heroku/streamlit-sharing
+- [x] deploy to heroku/streamlit-sharing
 - [ ] add more classifier
 - [ ] add more parameters
         
