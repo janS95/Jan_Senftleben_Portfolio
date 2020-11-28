@@ -24,6 +24,7 @@
 
 ![alt_text](images/weather_resized.png "Weather")
 
+
 # [Project: Simple Machine Learning Web App](https://github.com/janS95/simple_ml_web_app)
 
 * Simple Web App using streamlit and sklearn
@@ -38,7 +39,8 @@ TODO:
         
 ![](images/GUI.JPG)
 
-# [Project: Major 4 US sports (NHL, MLB, NBA, NFL)]
+
+# [Project: Major 4 US sports (NHL, MLB, NBA, NFL)](https://github.com/janS95/major_4_us_sports)
 ## Is there a correlation between population and success rate for sports teams?
 
 * Read CSV data from the 4 major sports in the US and cleaned it
@@ -49,7 +51,6 @@ TODO:
 * Plotted scatter plot and geographical scatter plot
 
 ### Example NBA:
-
 ![](images/nba_map.png)
 
 
